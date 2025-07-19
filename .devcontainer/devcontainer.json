@@ -1,0 +1,19 @@
+{
+    "customizations": {
+		"vscode": {
+			"extensions": [
+                "esbenp.prettier-vscode",
+                "vscode-icons-team.vscode-icons",
+                "wayou.vscode-todo-highlight",
+                "hiteshchoudharycode.chai-theme"
+            ],
+			"settings": {
+				"editor.fontSize": 16,
+				"terminal.integrated.fontSize": 14,
+				"editor.wordWrap": "on"
+			}
+			
+		}
+		
+	 }
+}
